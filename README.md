@@ -9,7 +9,7 @@
 ![imagen](1.png)
 - **Cambia el nombre del sitio (largo y corto) y oculta la página principal a los no registrados.**  
    - Ve a **Administración del sitio > Primera plana > Parámetros**.  
-![imagen](4.png)
+![imagen](5.png)
 - **Asegúrate de que la zona horaria del sitio es la correcta.**  
    - Esto se cambia en **Administración del sitio > Ubicación > Parámetros**.  
    - Importante para que los plazos de entrega sean correctos.  
@@ -22,7 +22,7 @@
 - **Modifica las reglas de contraseñas.**  
    - Pon que las nuevas contraseñas tengan mínimo 4 caracteres y al menos una mayúscula, una minúscula y un número.  
    - Cambia esto en **Administración del sitio > Seguridad > Normativas del sitio**.  
-![imagen](5.png)
+![imagen](4.png)
 
 
 2 **Crea cursos en Moodle:**  
