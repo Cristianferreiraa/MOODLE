@@ -43,7 +43,8 @@ Se hace en **Administración del sitio > Gestiona cursos y categorías** o en **
 4 **Crear usuarios y alumnos**  
 
 - **Crea a mano un usuario llamado "Bob"** con autenticación manual.  
-   - Se hace en **Administración del sitio > Usuarios > Cuentas > Añadir usuario**.  
+   - Se hace en **Administración del sitio > Usuarios > Cuentas > Añadir usuario**.
+   ![imagen](9.png)
 
 - **Crea 10 alumnos y añádelos a los cursos A y B con un archivo CSV.**  
    - Sube el CSV en **Administración del sitio > Usuarios > Cuentas > Cargar usuarios**.  
