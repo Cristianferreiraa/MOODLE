@@ -80,6 +80,7 @@ Se hace en **Administración del sitio > Gestiona cursos y categorías** o en **
    - Ve a **Administración del sitio > Conectores > Instalar complemento**.  
    - Luego cambia el tema en **Administración del sitio > Apariencia > Temas > Selector de temas**.
    ![imagen](a8.png)
+
 - Usa la opción **"Cambio de rol"** en el menú para ver cómo se ve el sitio como alumno o profe.  
 
 
