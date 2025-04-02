@@ -30,7 +30,7 @@
 - **Curso B** con **5 temas**.  
 Se hace en **Administración del sitio > Gestiona cursos y categorías** o en **Navegación > Cursos > Añadir curso**.  
 ![imagen](2.png)
----
+
 
 3 **Añade contenido a los cursos:**  
 - Entra a un curso creado y sube algún material .pdf.  
@@ -50,37 +50,39 @@ Se hace en **Administración del sitio > Gestiona cursos y categorías** o en **
    - Sube el CSV en **Administración del sitio > Usuarios > Cuentas > Cargar usuarios**.  
    - Si no sabes cómo hacer el archivo CSV, revisa la sección de Usuarios más abajo.  
 ![imagen](a2.png)
-- **Elimina 2 alumnos de los 10 creados.**  
-   - Usa **Administración del sitio > Usuarios > Acciones en bloque**.  
 
----
+
+
 
 5 **Matricular usuarios en los cursos**  
 
 - **Curso A:**  
    - No permitas inscripciones, solo acceso como visitante (será público sin usuarios registrados).  
+![imagen](a3.png)
+![imagen](a4.png)
 
 - **Curso B:**  
    - Solo admin puede inscribir manualmente a los alumnos.  
    - Cambia esto en **Administración del curso > Usuarios > Métodos de inscripción**.  
    - Si no aparece la opción, actívala en **Administración del sitio > Conectores > Autenticación**.  
+![imagen](a5.png)
 
 - **Asigna a "Bob" como profe del curso B y matricula a los alumnos creados.**  
    - Ve a **Administración del curso > Usuarios inscritos > Inscribir**.  
+![imagen](a6.png)
+![imagen](a7.png)
 
-- **Comprueba que el curso A es público y que el curso B solo se ve con cuenta registrada.**  
-
----
 
 6 **Cambia el diseño del Moodle**  
 
 - Descarga y activa un **tema nuevo** (no uses los que vienen por defecto).  
 - Cambia la **cabecera y el pie de página**.  
    - Ve a **Administración del sitio > Conectores > Instalar complemento**.  
-   - Luego cambia el tema en **Administración del sitio > Apariencia > Temas > Selector de temas**.  
+   - Luego cambia el tema en **Administración del sitio > Apariencia > Temas > Selector de temas**.
+   ![imagen](a8.png)
 - Usa la opción **"Cambio de rol"** en el menú para ver cómo se ve el sitio como alumno o profe.  
 
----
+
 
 7 **Asigna un profe y matricula alumnos en el curso A.**  
 
@@ -90,7 +92,7 @@ Se hace en **Administración del sitio > Gestiona cursos y categorías** o en **
 
 9 **Entra como alumno y comprueba que se puede entregar la tarea.**  
 
----
+
 
 ### **Contenidos**  
 
@@ -102,7 +104,7 @@ Se hace en **Administración del sitio > Gestiona cursos y categorías** o en **
 - Usa **el Moodle del Puig** como referencia.  
 - **Copia el curso A en el curso B** usando **Administración del Curso > Importar** desde el curso B.  
 
----
+
 
 ### **Notas y calificaciones**  
 
@@ -115,15 +117,7 @@ Se hace en **Administración del sitio > Gestiona cursos y categorías** o en **
 - **Crea una insignia y asígnala a un alumno.**  
    - Se hace en **Administración del sitio > Insignias**.  
 
----
 
-### **Cuestionarios**  
 
-- **Crea un cuestionario** y añade preguntas desde el **banco de preguntas**.  
-- Organiza el banco con **categorías** y mete preguntas en cada una.  
-- Al hacer el cuestionario, selecciona preguntas del banco.  
-- **Responde el cuestionario como alumno** y revisa las notas como profesor.  
-
----
 
 **¡Listo! Ahora tienes Moodle configurado con cursos, alumnos, contenido y evaluaciones.**
