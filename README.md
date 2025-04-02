@@ -13,7 +13,7 @@
 - **Asegúrate de que la zona horaria del sitio es la correcta.**  
    - Esto se cambia en **Administración del sitio > Ubicación > Parámetros**.  
    - Importante para que los plazos de entrega sean correctos.  
-
+![imagen](3.png)
 - **Cambia el idioma del Moodle.**  
    - Ve a **Administración del sitio > Idioma > Parámetros**.  
    - Activa la detección automática y elige el idioma por defecto.  
@@ -29,7 +29,7 @@
 - **Curso A** con **3 temas**.  
 - **Curso B** con **5 temas**.  
 Se hace en **Administración del sitio > Gestiona cursos y categorías** o en **Navegación > Cursos > Añadir curso**.  
-
+![imagen](2.png)
 ---
 
 3 **Añade contenido a los cursos:**  
