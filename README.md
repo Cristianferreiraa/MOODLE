@@ -49,7 +49,7 @@ Se hace en **Administración del sitio > Gestiona cursos y categorías** o en **
 - **Crea 10 alumnos y añádelos a los cursos A y B con un archivo CSV.**  
    - Sube el CSV en **Administración del sitio > Usuarios > Cuentas > Cargar usuarios**.  
    - Si no sabes cómo hacer el archivo CSV, revisa la sección de Usuarios más abajo.  
-
+![imagen](a2.png)
 - **Elimina 2 alumnos de los 10 creados.**  
    - Usa **Administración del sitio > Usuarios > Acciones en bloque**.  
 
