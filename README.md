@@ -5,7 +5,7 @@
 
 - **Cambia tu email, contraseña y foto de perfil** (avatar).  
    - Ve a tu perfil (arriba a la derecha), dale a **Editar** o entra en **Preferencias**.  
-(Captura desde 2025-03-19 12-39-11.png)
+!(Captura desde 2025-03-19 12-39-11.png)
 - **Cambia el nombre del sitio (largo y corto) y oculta la página principal a los no registrados.**  
    - Ve a **Administración del sitio > Primera plana > Parámetros**.  
 
