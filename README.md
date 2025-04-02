@@ -2,7 +2,7 @@
 ### **Configuración del Moodle**  
 
 1 **Inicia sesión en Moodle como admin y haz estos cambios:**  
-![imagen](Captura desde 2025-03-19 12-39-11.png)
+![imagen](1.png)
 
 - **Cambia tu email, contraseña y foto de perfil** (avatar).  
    - Ve a tu perfil (arriba a la derecha), dale a **Editar** o entra en **Preferencias**.  
