@@ -98,7 +98,7 @@ Se hace en **Administración del sitio > Gestiona cursos y categorías** o en **
 ### **Contenidos**  
 
 **En el curso A:**  
-- Crea una **UF (Unidad Formativa)** con **2 NF (Núcleos Formativos)** dentro.  
+- Crea una **UF** con **2 NF** dentro.  
 - Agrega actividades (tanto **teóricas** como **evaluables**).  
    - Mínimo: **1 entrega y 1 cuestionario**.  
 - Cambia el **formato del curso a "Temas"** en **Administración del Curso > Editar Curso > Formato del Curso**.  
@@ -120,5 +120,3 @@ Se hace en **Administración del sitio > Gestiona cursos y categorías** o en **
 
 
 
-
-**¡Listo! Ahora tienes Moodle configurado con cursos, alumnos, contenido y evaluaciones.**
