@@ -2,14 +2,14 @@
 ### **Configuración del Moodle**  
 
 1 **Inicia sesión en Moodle como admin y haz estos cambios:**  
-![imagen](1.png)
+
 
 - **Cambia tu email, contraseña y foto de perfil** (avatar).  
    - Ve a tu perfil (arriba a la derecha), dale a **Editar** o entra en **Preferencias**.  
-
+![imagen](1.png)
 - **Cambia el nombre del sitio (largo y corto) y oculta la página principal a los no registrados.**  
    - Ve a **Administración del sitio > Primera plana > Parámetros**.  
-
+![imagen](4.png)
 - **Asegúrate de que la zona horaria del sitio es la correcta.**  
    - Esto se cambia en **Administración del sitio > Ubicación > Parámetros**.  
    - Importante para que los plazos de entrega sean correctos.  
@@ -22,7 +22,7 @@
 - **Modifica las reglas de contraseñas.**  
    - Pon que las nuevas contraseñas tengan mínimo 4 caracteres y al menos una mayúscula, una minúscula y un número.  
    - Cambia esto en **Administración del sitio > Seguridad > Normativas del sitio**.  
-
+![imagen](5.png)
 
 
 2 **Crea cursos en Moodle:**  
@@ -33,13 +33,12 @@ Se hace en **Administración del sitio > Gestiona cursos y categorías** o en **
 ---
 
 3 **Añade contenido a los cursos:**  
-- Entra a un curso creado y sube algún material (por ejemplo, un **PDF**).  
+- Entra a un curso creado y sube algún material .pdf.  
 - Cámbiale el título a algún tema.  
 - Activa el **modo edición** y explora opciones.  
+![imagen](8.png)
 
-No vamos a ver todas las herramientas en detalle porque eso lo hace más el profe que el admin, pero viene bien conocerlas.  
 
----
 
 4 **Crear usuarios y alumnos**  
 
