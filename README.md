@@ -2,10 +2,11 @@
 ### **Configuración del Moodle**  
 
 1 **Inicia sesión en Moodle como admin y haz estos cambios:**  
+![imagen moodle](Captura desde 2025-3-19 12-39-11.png)
 
 - **Cambia tu email, contraseña y foto de perfil** (avatar).  
    - Ve a tu perfil (arriba a la derecha), dale a **Editar** o entra en **Preferencias**.  
-!(Captura desde 2025-03-19 12-39-11.png)
+
 - **Cambia el nombre del sitio (largo y corto) y oculta la página principal a los no registrados.**  
    - Ve a **Administración del sitio > Primera plana > Parámetros**.  
 
@@ -22,7 +23,7 @@
    - Pon que las nuevas contraseñas tengan mínimo 4 caracteres y al menos una mayúscula, una minúscula y un número.  
    - Cambia esto en **Administración del sitio > Seguridad > Normativas del sitio**.  
 
----
+
 
 2 **Crea cursos en Moodle:**  
 - **Curso A** con **3 temas**.  
