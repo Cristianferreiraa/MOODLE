@@ -91,9 +91,10 @@ Se hace en **Administración del sitio > Gestiona cursos y categorías** o en **
 8 **Añade contenido en el curso A:**  
 - Activa el **modo edición** y sube diferentes tipos de actividades.  
 - Crea una **tarea con entrega de PDF** y ponle fecha límite.  
- ![imagen](b3.png)
+ ![imagen](b4.png)
 9 **Entra como alumno y comprueba que se puede entregar la tarea.**  
-
+ ![imagen](b5.png)
+ ![imagen](b6.png)
 
 
 ### **Contenidos**  
@@ -101,7 +102,9 @@ Se hace en **Administración del sitio > Gestiona cursos y categorías** o en **
 **En el curso A:**  
 - Crea una **UF** con **2 NF** dentro.  
 - Agrega actividades (tanto **teóricas** como **evaluables**).  
-   - Mínimo: **1 entrega y 1 cuestionario**.  
+   - Mínimo: **1 entrega y 1 cuestionario**.
+ ![imagen](b7.png)
+ ![imagen](b8.png)
 - Cambia el **formato del curso a "Temas"** en **Administración del Curso > Editar Curso > Formato del Curso**.  
 - Usa **el Moodle del Puig** como referencia.  
 - **Copia el curso A en el curso B** usando **Administración del Curso > Importar** desde el curso B.  
