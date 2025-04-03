@@ -119,13 +119,16 @@ Se hace en **Administración del sitio > Gestiona cursos y categorías** o en **
 ### **Notas y calificaciones**  
 
 **En el curso A:**  
-- Completa todas las tareas con un usuario alumno.  
+- Completa todas las tareas con un usuario alumno.
+ ![imagen](c5.png)
+
 - Corrige y pon notas con el usuario profesor.  
 - Configura el **calificador** para que genere automáticamente la nota de la UF.  
    - Esto se hace en **Administración del Curso > Configuración de calificaciones**.  
+ ![imagen](c6.png)
 
 - **Crea una insignia y asígnala a un alumno.**  
    - Se hace en **Administración del sitio > Insignias**.  
 
 
-
+ ![imagen](c7.png)
