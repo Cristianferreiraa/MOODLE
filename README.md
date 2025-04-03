@@ -82,15 +82,16 @@ Se hace en **Administración del sitio > Gestiona cursos y categorías** o en **
    ![imagen](a8.png)
 
 - Usa la opción **"Cambio de rol"** en el menú para ver cómo se ve el sitio como alumno o profe.  
- ![imagen](b1.png)
+
 
 
 7 **Asigna un profe y matricula alumnos en el curso A.**  
-
+ ![imagen](b2.png)
+  ![imagen](b1.png)
 8 **Añade contenido en el curso A:**  
 - Activa el **modo edición** y sube diferentes tipos de actividades.  
 - Crea una **tarea con entrega de PDF** y ponle fecha límite.  
-
+ ![imagen](b3.png)
 9 **Entra como alumno y comprueba que se puede entregar la tarea.**  
 
 
