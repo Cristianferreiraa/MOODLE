@@ -97,6 +97,8 @@ Se hace en **Administración del sitio > Gestiona cursos y categorías** o en **
  ![imagen](b5.png)
 
 
+
+
 ### **Contenidos**  
 
 **En el curso A:**  
@@ -109,7 +111,9 @@ Se hace en **Administración del sitio > Gestiona cursos y categorías** o en **
 - Cambia el **formato del curso a "Temas"** en **Administración del Curso > Editar Curso > Formato del Curso**.  
 - Usa **el Moodle del Puig** como referencia.  
 - **Copia el curso A en el curso B** usando **Administración del Curso > Importar** desde el curso B.  
-
+ ![imagen](c2.png)
+ ![imagen](c3.png)
+ ![imagen](c4.png)
 
 
 ### **Notas y calificaciones**  
