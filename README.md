@@ -93,8 +93,8 @@ Se hace en **Administración del sitio > Gestiona cursos y categorías** o en **
 - Crea una **tarea con entrega de PDF** y ponle fecha límite.  
  ![imagen](b4.png)
 9 **Entra como alumno y comprueba que se puede entregar la tarea.**  
- ![imagen](b5.png)
  ![imagen](b6.png)
+ ![imagen](b5.png)
 
 
 ### **Contenidos**  
