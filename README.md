@@ -103,8 +103,9 @@ Se hace en **Administración del sitio > Gestiona cursos y categorías** o en **
 - Crea una **UF** con **2 NF** dentro.  
 - Agrega actividades (tanto **teóricas** como **evaluables**).  
    - Mínimo: **1 entrega y 1 cuestionario**.
- ![imagen](b7.png)
+ ![imagen](b9.png)
  ![imagen](b8.png)
+ ![imagen](c1.png)
 - Cambia el **formato del curso a "Temas"** en **Administración del Curso > Editar Curso > Formato del Curso**.  
 - Usa **el Moodle del Puig** como referencia.  
 - **Copia el curso A en el curso B** usando **Administración del Curso > Importar** desde el curso B.  
